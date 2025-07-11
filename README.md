@@ -1,2 +1,2 @@
 # tpm-make-credential-lib
-Minimal spec compliant tpm make credential
+Minimal spec compliant tpm2.0 make credential
